@@ -79,7 +79,7 @@ src/
    ```bash
    npm run dev
    ```
-4. Visit: `http://localhost:5173`
+4. Visit: `http://localhost:8000`
 
 To build for production:
 
